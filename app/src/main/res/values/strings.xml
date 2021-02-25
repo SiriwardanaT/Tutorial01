@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tutorial01</string>
+    <string name="SendMessage">sendMessage</string>
+    <string name="send">send</string>
 </resources>
